@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Sukdeb02022@gmail.com**
 
-- 📄 My experiences [file:///C:/Users/sukde/Pictures/certificate/Sukdeb_cv.pdf]()
+- 📄 My experiences [file:///C:/Users/sukde/Pictures/certificate/Sukdeb_cv.pdf](https://github.com/Sukdebrmondal/Sukdebrmondal/blob/main/Sukdeb_cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
