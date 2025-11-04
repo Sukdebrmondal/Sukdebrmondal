@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![logo](https://github.com/Sukdebrmondal/Sukdebrmondal/blob/main/download.png)
 <h1 align="center">Hi 👋, I'm Sukdeb Mondal</h1>
 <h3 align="center">I am a student of Ramkrishna Mission Vidyamandira Department of computer science.</h3>
 
